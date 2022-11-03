@@ -1,0 +1,2 @@
+autohi_message (Message to auto-send when joining a server) string Hi
+autobye_message (Message to auto-send when using .bye chatcommand) string I gotta go, have fun!
