@@ -1,0 +1,11 @@
+The mod can only be used if `worldstorage.get_current_worldname()` doesn't return `nil`.
+- `worldstorage.get_current_worldname()`
+- `worldstorage.get_int(key)`
+- `worldstorage.set_int(key, value)`
+- `worldstorage.get_float(key)`
+- `worldstorage.set_float(key, value)`
+- `worldstorage.get_string(key)`
+- `worldstorage.set_string(key, value)`
+- `worldstorage.to_table()`
+- `worldstorage.from_table(values)`
+- `worldstorage.register_on_activate(func())`
